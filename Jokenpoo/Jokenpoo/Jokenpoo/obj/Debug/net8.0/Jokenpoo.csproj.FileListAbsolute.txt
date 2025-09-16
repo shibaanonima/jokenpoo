@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\bin\Debug\net8.0\Jokenpoo.exe
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\bin\Debug\net8.0\Jokenpoo.deps.json
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\bin\Debug\net8.0\Jokenpoo.runtimeconfig.json
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\bin\Debug\net8.0\Jokenpoo.dll
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\bin\Debug\net8.0\Jokenpoo.pdb
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\obj\Debug\net8.0\Jokenpoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\obj\Debug\net8.0\Jokenpoo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\obj\Debug\net8.0\Jokenpoo.AssemblyInfo.cs
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\obj\Debug\net8.0\Jokenpoo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\obj\Debug\net8.0\Jokenpoo.dll
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\obj\Debug\net8.0\refint\Jokenpoo.dll
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\obj\Debug\net8.0\Jokenpoo.pdb
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\obj\Debug\net8.0\Jokenpoo.genruntimeconfig.cache
+C:\Users\user\source\repos\Jokenpoo\Jokenpoo\obj\Debug\net8.0\ref\Jokenpoo.dll
